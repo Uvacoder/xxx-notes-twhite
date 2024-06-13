@@ -13,8 +13,8 @@ interface Options {
 
 const defaultOptions: Options = {
   theme: {
-    light: "github-light",
-    dark: "github-dark",
+    light: "catppuccin-latte",
+    dark: "catppuccin-frappe",
   },
   keepBackground: false,
 }

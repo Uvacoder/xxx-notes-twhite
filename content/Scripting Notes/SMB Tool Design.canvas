@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3b159f8a0999d852","x":-420,"y":-180,"width":250,"height":60,"color":"3","type":"text","text":"SMB Tool"},
+		{"id":"5ae3faa1fa29189b","x":-120,"y":-180,"width":250,"height":60,"color":"4","type":"text","text":"Purpose"},
+		{"id":"e8e0f464c2b68326","x":-420,"y":60,"width":400,"height":400,"type":"file","file":"Scripting Notes/SMB Scanner Tool.md"}
+	],
+	"edges":[
+		{"id":"9e1e024e0cb69c9b","fromNode":"3b159f8a0999d852","fromSide":"right","toNode":"5ae3faa1fa29189b","toSide":"left"},
+		{"id":"30b75b75063d1822","fromNode":"3b159f8a0999d852","fromSide":"bottom","toNode":"e8e0f464c2b68326","toSide":"top"}
+	]
+}
